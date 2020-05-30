@@ -1,0 +1,106 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Streaming Dashboard Design
+</name>
+</assembly>
+<members>
+<member name="T:Streaming_Dashboard_Design.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Streaming_Dashboard_Design.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Streaming_Dashboard_Design.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Streaming_Dashboard_Design.My.Resources.Resources._02b26dce_68da_472f_ae8c_28e9f0c0b6e6_169">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Streaming_Dashboard_Design.My.Resources.Resources._1_GettyImages_930049150">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Streaming_Dashboard_Design.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Streaming_Dashboard_Design.My.Resources.Resources.full_screen_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Streaming_Dashboard_Design.My.Resources.Resources.liverpool_fc_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Streaming_Dashboard_Design.My.Resources.Resources.low_volume_90px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Streaming_Dashboard_Design.My.Resources.Resources.manchester_united_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Streaming_Dashboard_Design.My.Resources.Resources.menu_vertical_90px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Streaming_Dashboard_Design.My.Resources.Resources.mihai_stefan_0_G9UHXy39c_unsplash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Streaming_Dashboard_Design.My.Resources.Resources.notification_104px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Streaming_Dashboard_Design.My.Resources.Resources.paper_plane_104px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Streaming_Dashboard_Design.My.Resources.Resources.pause_90px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Streaming_Dashboard_Design.My.Resources.Resources.ronaldo_kecewa_juventus_vs_inter_milan_digelar_tanpa_penonton_JaDnAkL6CU">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Streaming_Dashboard_Design.My.Resources.Resources.search_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Streaming_Dashboard_Design.My.Resources.Resources.shutdown_480px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Streaming_Dashboard_Design.My.Resources.Resources.vinicius_amnx_amano_XKoTZ1EUOJA_unsplash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
